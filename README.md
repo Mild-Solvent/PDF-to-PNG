@@ -15,7 +15,7 @@ conda install pdf2image pillow
 
 ---
 
-Then put you PDF to the root and call this:
+Then put your PDF to the root and call this:
 
 ```bash
 python converter.py <name of your PDF file>
