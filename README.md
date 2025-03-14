@@ -13,6 +13,8 @@ or
 conda install pdf2image pillow
 ```
 
+---
+
 Then put you PDF to the root and call this:
 
 ```bash
